@@ -1,0 +1,3164 @@
+--------------------------------------------------
+Marvellous Platform survillance
+LogFile gets created as:2026-07-28_23-59-43
+--------------------------------------------------
+
+----System report----
+Number of active CpuCore:24 
+CPU percentage:0.4 %
+--------------------------------------------------
+RAM Usage:26.7 %
+Total RAM avalible:16453574656
+--------------------------------------------------
+NetWork Usage Report:
+Sent: 5.65 MB
+recive: 29.52 MB
+--------------------------------------------------
+PID:1
+Name:systemd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.09298015975161476
+--------------------------------------------------
+PID:2
+Name:kthreadd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:3
+Name:pool_workqueue_release
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4
+Name:kworker/R-rcu_gp
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:5
+Name:kworker/R-sync_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6
+Name:kworker/R-kvfree_rcu_reclaim
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:7
+Name:kworker/R-slub_flushwq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:8
+Name:kworker/R-netns
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:10
+Name:kworker/0:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:13
+Name:kworker/R-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:14
+Name:ksoftirqd/0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:15
+Name:rcu_preempt
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:16
+Name:rcu_exp_par_gp_kthread_worker/1
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:17
+Name:rcu_exp_gp_kthread_worker
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:18
+Name:migration/0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:19
+Name:idle_inject/0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:20
+Name:cpuhp/0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:21
+Name:cpuhp/2
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:22
+Name:idle_inject/2
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:23
+Name:migration/2
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:24
+Name:ksoftirqd/2
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:25
+Name:kworker/2:0-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:26
+Name:kworker/2:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:27
+Name:cpuhp/4
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:28
+Name:idle_inject/4
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:29
+Name:migration/4
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:30
+Name:ksoftirqd/4
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:31
+Name:kworker/4:0-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:32
+Name:kworker/4:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:33
+Name:cpuhp/6
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:34
+Name:idle_inject/6
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:35
+Name:migration/6
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:36
+Name:ksoftirqd/6
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:38
+Name:kworker/6:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:39
+Name:cpuhp/8
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:40
+Name:idle_inject/8
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:41
+Name:migration/8
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:42
+Name:ksoftirqd/8
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:44
+Name:kworker/8:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:45
+Name:cpuhp/10
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:46
+Name:idle_inject/10
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:47
+Name:migration/10
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:48
+Name:ksoftirqd/10
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:50
+Name:kworker/10:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:51
+Name:cpuhp/12
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:52
+Name:idle_inject/12
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:53
+Name:migration/12
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:54
+Name:ksoftirqd/12
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:56
+Name:kworker/12:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:57
+Name:rcu_exp_par_gp_kthread_worker/2
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:58
+Name:cpuhp/14
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:59
+Name:idle_inject/14
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:60
+Name:migration/14
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:61
+Name:ksoftirqd/14
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:63
+Name:kworker/14:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:64
+Name:cpuhp/16
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:65
+Name:idle_inject/16
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:66
+Name:migration/16
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:67
+Name:ksoftirqd/16
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:69
+Name:kworker/16:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:70
+Name:cpuhp/17
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:71
+Name:idle_inject/17
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:72
+Name:migration/17
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:73
+Name:ksoftirqd/17
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:75
+Name:kworker/17:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:76
+Name:cpuhp/18
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:77
+Name:idle_inject/18
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:78
+Name:migration/18
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:79
+Name:ksoftirqd/18
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:81
+Name:kworker/18:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:82
+Name:cpuhp/19
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:83
+Name:idle_inject/19
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:84
+Name:migration/19
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:85
+Name:ksoftirqd/19
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:87
+Name:kworker/19:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:88
+Name:cpuhp/20
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:89
+Name:idle_inject/20
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:90
+Name:migration/20
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:91
+Name:ksoftirqd/20
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:93
+Name:kworker/20:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:94
+Name:cpuhp/21
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:95
+Name:idle_inject/21
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:96
+Name:migration/21
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:97
+Name:ksoftirqd/21
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:99
+Name:kworker/21:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:100
+Name:cpuhp/22
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:101
+Name:idle_inject/22
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:102
+Name:migration/22
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:103
+Name:ksoftirqd/22
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:104
+Name:kworker/22:0-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:105
+Name:kworker/22:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:106
+Name:cpuhp/23
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:107
+Name:idle_inject/23
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:108
+Name:migration/23
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:109
+Name:ksoftirqd/23
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:111
+Name:kworker/23:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:112
+Name:cpuhp/1
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:113
+Name:idle_inject/1
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:114
+Name:migration/1
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:115
+Name:ksoftirqd/1
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:117
+Name:kworker/1:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:118
+Name:cpuhp/3
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:119
+Name:idle_inject/3
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:120
+Name:migration/3
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:121
+Name:ksoftirqd/3
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:123
+Name:kworker/3:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:124
+Name:cpuhp/5
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:125
+Name:idle_inject/5
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:126
+Name:migration/5
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:127
+Name:ksoftirqd/5
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:129
+Name:kworker/5:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:130
+Name:cpuhp/7
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:131
+Name:idle_inject/7
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:132
+Name:migration/7
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:133
+Name:ksoftirqd/7
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:135
+Name:kworker/7:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:136
+Name:cpuhp/9
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:137
+Name:idle_inject/9
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:138
+Name:migration/9
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:139
+Name:ksoftirqd/9
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:141
+Name:kworker/9:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:142
+Name:cpuhp/11
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:143
+Name:idle_inject/11
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:144
+Name:migration/11
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:145
+Name:ksoftirqd/11
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:147
+Name:kworker/11:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:148
+Name:cpuhp/13
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:149
+Name:idle_inject/13
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:150
+Name:migration/13
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:151
+Name:ksoftirqd/13
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:152
+Name:kworker/13:0-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:153
+Name:kworker/13:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:154
+Name:cpuhp/15
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:155
+Name:idle_inject/15
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:156
+Name:migration/15
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:157
+Name:ksoftirqd/15
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:158
+Name:kworker/15:0-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:159
+Name:kworker/15:0H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:160
+Name:kdevtmpfs
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:161
+Name:kworker/R-inet_frag_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:162
+Name:rcu_tasks_kthread
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:163
+Name:rcu_tasks_rude_kthread
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:164
+Name:rcu_tasks_trace_kthread
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:165
+Name:kauditd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:166
+Name:khungtaskd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:167
+Name:oom_reaper
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:170
+Name:kworker/R-writeback
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:171
+Name:kcompactd0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:172
+Name:ksmd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:173
+Name:khugepaged
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:174
+Name:kworker/R-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:175
+Name:kworker/R-blkcg_punt_bio
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:176
+Name:kworker/R-kintegrityd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:177
+Name:irq/9-acpi
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:178
+Name:kworker/1:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:181
+Name:kworker/R-tpm_dev_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:182
+Name:kworker/R-ata_sff
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:183
+Name:kworker/R-md
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:184
+Name:kworker/R-md_bitmap
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:185
+Name:kworker/R-edac-poller
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:186
+Name:kworker/R-devfreq_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:187
+Name:kworker/21:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:188
+Name:watchdogd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:189
+Name:kworker/R-quota_events_unbound
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:190
+Name:kworker/20:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:191
+Name:kworker/17:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:192
+Name:kswapd0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:193
+Name:ecryptfs-kthread
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:194
+Name:kworker/R-kthrotld
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:195
+Name:irq/123-aerdrv
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:196
+Name:irq/124-aerdrv
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:197
+Name:irq/125-aerdrv
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:198
+Name:irq/125-pciehp
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:199
+Name:kworker/R-acpi_thermal_pm
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:202
+Name:hwrng
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:203
+Name:kworker/R-hfi-updates
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:204
+Name:kworker/R-mld
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:205
+Name:kworker/R-ipv6_addrconf
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:206
+Name:kworker/R-kstrp
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:207
+Name:kworker/3:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:209
+Name:kworker/8:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:211
+Name:kworker/16:1-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:213
+Name:kworker/23:1-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:214
+Name:kworker/5:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:218
+Name:kworker/14:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:219
+Name:kworker/19:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:221
+Name:kworker/u97:0-rtw89_tx_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:232
+Name:kworker/R-charger_manager
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:233
+Name:kworker/0:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:258
+Name:kworker/16:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:262
+Name:kworker/17:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:263
+Name:kworker/10:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:301
+Name:kworker/7:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:302
+Name:kworker/2:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:303
+Name:kworker/6:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:304
+Name:kworker/4:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:305
+Name:kworker/9:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:310
+Name:kworker/5:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:311
+Name:kworker/15:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:312
+Name:kworker/19:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:313
+Name:kworker/14:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:314
+Name:kworker/8:1H-events_highpri
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:315
+Name:kworker/18:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:319
+Name:kworker/22:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:321
+Name:kworker/21:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:338
+Name:kworker/12:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:343
+Name:kworker/11:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:344
+Name:kworker/13:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:345
+Name:kworker/23:1H-i915_cleanup
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:347
+Name:kworker/1:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:348
+Name:kworker/10:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:349
+Name:kworker/3:1H-kblockd
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:402
+Name:kworker/11:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:403
+Name:scsi_eh_0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:404
+Name:kworker/R-scsi_tmf_0
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:405
+Name:scsi_eh_1
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:406
+Name:kworker/R-scsi_tmf_1
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:407
+Name:scsi_eh_2
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:408
+Name:kworker/R-scsi_tmf_2
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:409
+Name:scsi_eh_3
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:410
+Name:kworker/R-scsi_tmf_3
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:411
+Name:kworker/R-nvme-wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:412
+Name:kworker/R-nvme-reset-wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:413
+Name:scsi_eh_4
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:414
+Name:kworker/R-nvme-delete-wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:415
+Name:kworker/R-nvme-auth-wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:416
+Name:kworker/R-scsi_tmf_4
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:417
+Name:scsi_eh_5
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:418
+Name:kworker/R-scsi_tmf_5
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:419
+Name:scsi_eh_6
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:420
+Name:kworker/R-scsi_tmf_6
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:421
+Name:scsi_eh_7
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:422
+Name:kworker/R-scsi_tmf_7
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:428
+Name:irq/136-ELAN07C8:00
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:435
+Name:kworker/R-USBC000:00-con1
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:436
+Name:kworker/7:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:438
+Name:spi0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:499
+Name:jbd2/nvme0n1p7-8
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:500
+Name:kworker/R-ext4-rsv-conversion
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:514
+Name:kworker/11:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:545
+Name:kworker/18:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:551
+Name:systemd-journald
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.11809849474207776
+--------------------------------------------------
+PID:586
+Name:systemd-udevd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0559623558558581
+--------------------------------------------------
+PID:617
+Name:kworker/12:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:622
+Name:psimon
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:771
+Name:kworker/7:2-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:772
+Name:kworker/9:2-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:786
+Name:irq/154-mei_me
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:862
+Name:kworker/R-cfg80211
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:863
+Name:kworker/20:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:879
+Name:kworker/u97:1-rtw89_tx_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:881
+Name:irq/16-processor_thermal_device_pci
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:935
+Name:kworker/R-ttm
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:953
+Name:card1-crtc0
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:954
+Name:card1-crtc1
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:955
+Name:card1-crtc2
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:956
+Name:card1-crtc3
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:1080
+Name:systemd-oomd
+UserName:systemd-oom
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04737382704345995
+--------------------------------------------------
+PID:1082
+Name:kworker/0:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:1084
+Name:systemd-resolved
+UserName:systemd-resolve
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0846405738033441
+--------------------------------------------------
+PID:1085
+Name:systemd-timesyncd
+UserName:systemd-timesync
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04896706137387584
+--------------------------------------------------
+PID:1109
+Name:irq/156-AudioDSP
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:1119
+Name:irq/157-rtw89_pci
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:1120
+Name:kworker/13:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:1196
+Name:kworker/5:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:1198
+Name:avahi-daemon
+UserName:avahi
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.029001843670851728
+--------------------------------------------------
+PID:1201
+Name:bluetoothd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.042942644061990755
+--------------------------------------------------
+PID:1205
+Name:dbus-daemon
+UserName:messagebus
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04714977846574521
+--------------------------------------------------
+PID:1212
+Name:gnome-remote-desktop-daemon
+UserName:gnome-remote-desktop
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.1023404114428081
+--------------------------------------------------
+PID:1227
+Name:polkitd
+UserName:polkitd
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07719718216593237
+--------------------------------------------------
+PID:1232
+Name:power-profiles-daemon
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.05038603569940249
+--------------------------------------------------
+PID:1247
+Name:snapd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.2707751533114629
+--------------------------------------------------
+PID:1257
+Name:accounts-daemon
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.05407039008848923
+--------------------------------------------------
+PID:1262
+Name:cron
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.017849203357940505
+--------------------------------------------------
+PID:1264
+Name:switcheroo-control
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04219581546960831
+--------------------------------------------------
+PID:1278
+Name:systemd-logind
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.058078370200941705
+--------------------------------------------------
+PID:1279
+Name:thermald
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0666917932997526
+--------------------------------------------------
+PID:1281
+Name:udisksd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.09367719977117171
+--------------------------------------------------
+PID:1284
+Name:kworker/15:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:1293
+Name:avahi-daemon
+UserName:avahi
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.00945982883684434
+--------------------------------------------------
+PID:1363
+Name:NetworkManager
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.12447143206374131
+--------------------------------------------------
+PID:1378
+Name:wpa_supplicant
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07191959344642973
+--------------------------------------------------
+PID:1464
+Name:rsyslogd
+UserName:syslog
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.03671907245880369
+--------------------------------------------------
+PID:1486
+Name:ModemManager
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07943766794307972
+--------------------------------------------------
+PID:1547
+Name:upowerd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.061538676012313706
+--------------------------------------------------
+PID:1622
+Name:cupsd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07966171652079444
+--------------------------------------------------
+PID:1624
+Name:run-cups-browse
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.010256446002052284
+--------------------------------------------------
+PID:1625
+Name:run-cupsd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.011351794604213209
+--------------------------------------------------
+PID:1627
+Name:unattended-upgr
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.15449394147751572
+--------------------------------------------------
+PID:1646
+Name:dbus
+UserName:lp
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04174771831417884
+--------------------------------------------------
+PID:1846
+Name:cupsd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07891488792841199
+--------------------------------------------------
+PID:1847
+Name:cups-proxyd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0630821217699041
+--------------------------------------------------
+PID:1850
+Name:run-cups-browse
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.005949734452646835
+--------------------------------------------------
+PID:1851
+Name:sleep
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.012447143206374134
+--------------------------------------------------
+PID:1878
+Name:cups-browsed
+UserName:cups-browsed
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.12310224631104016
+--------------------------------------------------
+PID:1880
+Name:kerneloops
+UserName:kernoops
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.015135726138950945
+--------------------------------------------------
+PID:1883
+Name:kerneloops
+UserName:kernoops
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.014787206129172469
+--------------------------------------------------
+PID:1894
+Name:gdm3
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.057505801613448496
+--------------------------------------------------
+PID:1907
+Name:psimon
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:1942
+Name:rtkit-daemon
+UserName:rtkit
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.021558452033439996
+--------------------------------------------------
+PID:1987
+Name:kworker/23:2-cgroup_bpf_destroy
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:2044
+Name:krfcommd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:2090
+Name:colord
+UserName:colord
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.09235780259129606
+--------------------------------------------------
+PID:2500
+Name:gdm-session-worker
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07388624207303685
+--------------------------------------------------
+PID:2512
+Name:systemd
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.08152878800175056
+--------------------------------------------------
+PID:2515
+Name:(sd-pam)
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.022628906349188172
+--------------------------------------------------
+PID:2527
+Name:pipewire
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.10092143711728148
+--------------------------------------------------
+PID:2529
+Name:pipewire
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.037739738201726374
+--------------------------------------------------
+PID:2531
+Name:wireplumber
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.11565885467362844
+--------------------------------------------------
+PID:2534
+Name:pipewire-pulse
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.12238031200507048
+--------------------------------------------------
+PID:2535
+Name:gnome-keyring-daemon
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.06427704751771601
+--------------------------------------------------
+PID:2545
+Name:dbus-daemon
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04271859548427602
+--------------------------------------------------
+PID:2593
+Name:xdg-document-portal
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04929068709724156
+--------------------------------------------------
+PID:2597
+Name:xdg-permission-store
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.03935786681855501
+--------------------------------------------------
+PID:2604
+Name:fusermount3
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.012745874643327113
+--------------------------------------------------
+PID:2630
+Name:gdm-wayland-session
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0387355096582363
+--------------------------------------------------
+PID:2638
+Name:gnome-session-binary
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.10373449148192201
+--------------------------------------------------
+PID:2727
+Name:gcr-ssh-agent
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04311690406687999
+--------------------------------------------------
+PID:2728
+Name:gnome-session-ctl
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.03554904099740452
+--------------------------------------------------
+PID:2742
+Name:gvfsd
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.05088392142765746
+--------------------------------------------------
+PID:2750
+Name:gvfsd-fuse
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04548186127609108
+--------------------------------------------------
+PID:2753
+Name:gnome-session-binary
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.11570864324645393
+--------------------------------------------------
+PID:2788
+Name:at-spi-bus-launcher
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04983836139832203
+--------------------------------------------------
+PID:2802
+Name:dbus-daemon
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.03266130377352572
+--------------------------------------------------
+PID:2803
+Name:gnome-shell
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:2.2909713899923974
+--------------------------------------------------
+PID:2921
+Name:at-spi2-registryd
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04817044420866789
+--------------------------------------------------
+PID:2940
+Name:gnome-shell-calendar-server
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.10941038878402862
+--------------------------------------------------
+PID:2948
+Name:evolution-source-registry
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.26477563028599055
+--------------------------------------------------
+PID:2960
+Name:gjs
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.16868368473278225
+--------------------------------------------------
+PID:2965
+Name:ibus-daemon
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0775208078892981
+--------------------------------------------------
+PID:2968
+Name:gsd-a11y-settings
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.042245604042433806
+--------------------------------------------------
+PID:2971
+Name:gsd-color
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.12907687505009977
+--------------------------------------------------
+PID:2973
+Name:gsd-datetime
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.0759275735588822
+--------------------------------------------------
+PID:2975
+Name:gsd-housekeeping
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.05061008427711722
+--------------------------------------------------
+PID:2985
+Name:gsd-keyboard
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.12524315494253652
+--------------------------------------------------
+PID:2987
+Name:gsd-media-keys
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.1591242787502869
+--------------------------------------------------
+PID:2990
+Name:gsd-power
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.1525770814237341
+--------------------------------------------------
+PID:2997
+Name:gsd-print-notifications
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07284068204370142
+--------------------------------------------------
+PID:2999
+Name:gsd-rfkill
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.043465424076658474
+--------------------------------------------------
+PID:3004
+Name:gsd-screensaver-proxy
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.03943254967779325
+--------------------------------------------------
+PID:3009
+Name:gsd-sharing
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07557905354910374
+--------------------------------------------------
+PID:3012
+Name:gsd-smartcard
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.05210374146188212
+--------------------------------------------------
+PID:3014
+Name:gsd-sound
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.061463993153075464
+--------------------------------------------------
+PID:3016
+Name:gsd-wacom
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.12932581791422723
+--------------------------------------------------
+PID:3058
+Name:gsd-disk-utility-notify
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.05061008427711722
+--------------------------------------------------
+PID:3061
+Name:gvfs-udisks2-volume-monitor
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.07050061912090308
+--------------------------------------------------
+PID:3085
+Name:evolution-alarm-notify
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.37289151617655625
+--------------------------------------------------
+PID:3134
+Name:ibus-dconf
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04615400700923528
+--------------------------------------------------
+PID:3136
+Name:ibus-extension-gtk3
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.18591053093040405
+--------------------------------------------------
+PID:3138
+Name:gsd-printer
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.09489701980539637
+--------------------------------------------------
+PID:3148
+Name:ibus-portal
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04568101556739307
+--------------------------------------------------
+PID:3197
+Name:gvfs-afc-volume-monitor
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.050859027141244705
+--------------------------------------------------
+PID:3209
+Name:gvfs-mtp-volume-monitor
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.041797506887004336
+--------------------------------------------------
+PID:3220
+Name:gvfs-goa-volume-monitor
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04164814116852785
+--------------------------------------------------
+PID:3225
+Name:goa-daemon
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.15125768424385844
+--------------------------------------------------
+PID:3244
+Name:goa-identity-service
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.058650938788434914
+--------------------------------------------------
+PID:3250
+Name:gvfs-gphoto2-volume-monitor
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04438651267393016
+--------------------------------------------------
+PID:3254
+Name:evolution-calendar-factory
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.15155641568081143
+--------------------------------------------------
+PID:3273
+Name:evolution-addressbook-factory
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.18503923090595784
+--------------------------------------------------
+PID:3284
+Name:ibus-engine-simple
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04707509560650697
+--------------------------------------------------
+PID:3312
+Name:dconf-service
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.03925828967290401
+--------------------------------------------------
+PID:3331
+Name:gvfsd-trash
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.06238508175034715
+--------------------------------------------------
+PID:3354
+Name:xdg-desktop-portal
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.09255695688259805
+--------------------------------------------------
+PID:3375
+Name:tracker-miner-fs-3
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.17918907359896202
+--------------------------------------------------
+PID:3376
+Name:xdg-desktop-portal-gnome
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:1.0785449588323186
+--------------------------------------------------
+PID:3394
+Name:gjs
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.16873347330560773
+--------------------------------------------------
+PID:3422
+Name:xdg-desktop-portal-gtk
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.16803643328605078
+--------------------------------------------------
+PID:3514
+Name:gvfsd-metadata
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.04182240117341708
+--------------------------------------------------
+PID:3545
+Name:user-session-helper
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.039457443964205995
+--------------------------------------------------
+PID:3619
+Name:snapd-desktop-integration
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.23510164088199462
+--------------------------------------------------
+PID:3748
+Name:update-notifier
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.20998330589153158
+--------------------------------------------------
+PID:3934
+Name:nautilus
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:1.223678648618641
+--------------------------------------------------
+PID:3961
+Name:gvfsd-recent
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.06415257608565228
+--------------------------------------------------
+PID:4037
+Name:gedit
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.4429689324284426
+--------------------------------------------------
+PID:4049
+Name:gvfsd-network
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.056285981579223834
+--------------------------------------------------
+PID:4059
+Name:gvfsd-dnssd
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.05698302159878077
+--------------------------------------------------
+PID:4078
+Name:kworker/u96:12-loop8
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4079
+Name:kworker/u96:0-loop1
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4095
+Name:kworker/16:0-cgroup_free
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4117
+Name:kworker/4:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4134
+Name:kworker/21:0-cgroup_release
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4247
+Name:gnome-terminal-server
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.38426820506718223
+--------------------------------------------------
+PID:4254
+Name:bash
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.03756547819683713
+--------------------------------------------------
+PID:4468
+Name:kworker/18:0-cgroup_free
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4477
+Name:kworker/u96:2-events_unbound
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4478
+Name:kworker/22:2
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4488
+Name:kworker/6:2
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4492
+Name:kworker/8:0-cgroup_release
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4496
+Name:kworker/2:1
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4497
+Name:kworker/9:0-display_unordered
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4503
+Name:kworker/u96:1-kvfree_rcu_reclaim
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4576
+Name:kworker/17:0-cgroup_free
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4723
+Name:kworker/6:1-mm_percpu_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:4752
+Name:firefox
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:3.5701145087386412
+--------------------------------------------------
+PID:4841
+Name:crashhelper
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.01864582052314845
+--------------------------------------------------
+PID:4951
+Name:forkserver
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.21954271187402696
+--------------------------------------------------
+PID:4954
+Name:Socket Process
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.2998267855551401
+--------------------------------------------------
+PID:4987
+Name:Privileged Cont
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:1.1057295195950396
+--------------------------------------------------
+PID:4996
+Name:RDD Process
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.8011728196214775
+--------------------------------------------------
+PID:5045
+Name:snap
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.16372972173664535
+--------------------------------------------------
+PID:5215
+Name:WebExtensions
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.6927582022939587
+--------------------------------------------------
+PID:5562
+Name:Utility Process
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.36186334729570874
+--------------------------------------------------
+PID:5571
+Name:Isolated Web Co
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:2.6603030232119305
+--------------------------------------------------
+PID:5812
+Name:Isolated Web Co
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:5.213311671984916
+--------------------------------------------------
+PID:5849
+Name:kworker/u97:3-rtw89_tx_wq
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:5890
+Name:kworker/14:0-cgroup_free
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:5952
+Name:kworker/10:0
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:5963
+Name:kworker/20:1-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:5989
+Name:kworker/12:0-display_unordered
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:5991
+Name:kworker/3:0-cgroup_free
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6068
+Name:Web Content
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.461813907242893
+--------------------------------------------------
+PID:6151
+Name:kworker/0:0
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6157
+Name:kworker/19:2
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6158
+Name:Web Content
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.4603700386309537
+--------------------------------------------------
+PID:6252
+Name:Web Content
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.46358140157819816
+--------------------------------------------------
+PID:6437
+Name:kworker/1:0
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6540
+Name:kworker/14:2-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6545
+Name:kworker/u96:3-iou_exit
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6546
+Name:kworker/12:1
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6552
+Name:kworker/9:1-events
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6575
+Name:gjs
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.42163452897271736
+--------------------------------------------------
+PID:6691
+Name:kworker/21:2-cgroup_free
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6695
+Name:kworker/16:2
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6774
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:1.4558178694175186
+--------------------------------------------------
+PID:6776
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.34174876387420816
+--------------------------------------------------
+PID:6777
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.3436905182144025
+--------------------------------------------------
+PID:6791
+Name:chrome_crashpad_handler
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.026139000733385678
+--------------------------------------------------
+PID:6794
+Name:Xwayland
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.8501896695681787
+--------------------------------------------------
+PID:6804
+Name:gsd-xsettings
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.5072708742325713
+--------------------------------------------------
+PID:6828
+Name:ibus-x11
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.1556141843660894
+--------------------------------------------------
+PID:6830
+Name:mutter-x11-frames
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.7055787597965241
+--------------------------------------------------
+PID:6860
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.537567220796886
+--------------------------------------------------
+PID:6909
+Name:kworker/u96:4-ext4-rsv-conversion
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6932
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:2.1018494961147485
+--------------------------------------------------
+PID:6963
+Name:kworker/u96:5-events_unbound
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:6964
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.6355511321174633
+--------------------------------------------------
+PID:7003
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.8411779378867638
+--------------------------------------------------
+PID:7079
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:1.025594811632403
+--------------------------------------------------
+PID:7140
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:1.496619604848013
+--------------------------------------------------
+PID:7201
+Name:kworker/u97:2-i915_flip
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:7246
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.7923602422313646
+--------------------------------------------------
+PID:7261
+Name:code
+UserName:pratik
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:1.0315943346578753
+--------------------------------------------------
+PID:7326
+Name:kworker/8:2-cgroup_free
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:7332
+Name:fwupd
+UserName:root
+status:sleeping
+CPU Percentage:0.0
+MemoryPercentage:0.29659052832148286
+--------------------------------------------------
+PID:7340
+Name:kworker/7:0
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:7358
+Name:kworker/18:1
+UserName:root
+status:idle
+CPU Percentage:0.0
+MemoryPercentage:0.0
+--------------------------------------------------
+PID:7383
+Name:python3
+UserName:pratik
+status:running
+CPU Percentage:0.0
+MemoryPercentage:0.14010504393094722
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+--------------------------------------------------
+----End of log file------------------------------------------------------
+
